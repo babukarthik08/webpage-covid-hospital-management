@@ -1,0 +1,27 @@
+#symptomsHead
+{
+    color: tomato;
+    font-weight: bold;
+    font-style: italic;
+}
+#NoOfSymptoms
+{
+    color: rgb(207, 24, 24);
+}
+.fa-sad-tear
+{
+    color: yellow;
+}
+.fa-smile-beam
+{
+    color: yellow;
+}
+#selectHead
+{
+    color: tomato;
+}
+.selectHead
+{
+    color: tomato;
+    font-family: 'Merriweather', serif;
+}
